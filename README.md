@@ -19,7 +19,7 @@ Global Minimum Wage Dataset (170+ стран)
 
 ## Файлы
 - `lab2_preprocessing.ipynb` - основной ноутбук
-- `data/global_minimum_wage.csv` - исходные данные
-- `data/global_minimum_wage_processed.csv` - обработанные данные
+- `global_minimum_wage.csv` - исходные данные
+- `global_minimum_wage_processed.csv` - обработанные данные
 - `README.md` - описание
 - `requirements.txt` - зависимости
