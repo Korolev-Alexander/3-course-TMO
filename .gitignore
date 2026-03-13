@@ -1,35 +1,7 @@
-# Виртуальное окружение
 venv/
-env/
-ENV/
-.venv/
-
-# Python кэш
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.so
-*.dll
-
-# Jupyter checkpoint
 .ipynb_checkpoints/
-*.ipynb_checkpoints/
-
-# VS Code
 .vscode/
-*.code-workspace
-
-# Системные файлы
+*.pyc
 .DS_Store
 Thumbs.db
-desktop.ini
-
-# Файлы с данными (чтобы не загружать большие csv на гит)
-*.csv
-*.xlsx
-*.xls
-*.json
-
-# Логи
-*.log
