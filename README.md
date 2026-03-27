@@ -20,9 +20,9 @@
 7. **Сравнение метрик качества** — RMSE, MAE, R²
 
 ## Структура проекта
-3/
-├── lab3.ipynb # Jupyter ноутбук с реализацией KNN
-├── global_minimum_wage_processed.csv # Предобработанный датасет
-├── global_minimum_wage.csv # Исходный датасет
-├── README.md # Описание проекта
-└── requirements.txt # Зависимости
+
+* lab3.ipynb # Jupyter ноутбук с реализацией KNN
+* global_minimum_wage_processed.csv # Предобработанный датасет
+* global_minimum_wage.csv # Исходный датасет
+* README.md # Описание проекта
+* requirements.txt # Зависимости
