@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb~
+.ipynb_metadata
+
+# Streamlit
+.streamlit/
+*.pid
+
+# Data files (raw data -太大了，但 обработанный можно)
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+# Output files
+*.html
+*.pdf
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Virtual Environment
+venv/
+lib/
+lib64/
+bin/
+share/
+pyvenv.cfg
+
+# Cache
+__pycache__/
+.cache/
+.mypy_cache/
+.pytest_cache/
+
+# Model files (если будут)
+*.pkl
+*.joblib
+*.h5
+*.pb
+
+# Environment variables
+.env
+.env.local
